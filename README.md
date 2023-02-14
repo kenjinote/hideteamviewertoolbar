@@ -10,6 +10,7 @@ TeamViewerのリモート接続時に上部に表示されるツールバーを�
 非表示にできるのは、上記の部分です。
 
 【動作イメージ】
+
 ![image](https://user-images.githubusercontent.com/2605401/218668468-81a5562a-11bb-4158-8015-9353114ad75e.png)
 
 チェックON/OFFで表示を切り替えられます。
